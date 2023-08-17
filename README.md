@@ -12,6 +12,8 @@ a dedicated frontend React developer. With a passion for coding and a focus on u
 
 ## 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -23,6 +25,9 @@ a dedicated frontend React developer. With a passion for coding and a focus on u
 ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=%F15025&color=3E2C00)
 ![Wordpress](https://img.shields.io/badge/wordpress-%23000000.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![RESTAPI](https://img.shields.io/badge/restapi-%23E34F26.svg?style=for-the-badge&logo=restapi&logoColor=white) 
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 <!--
 **bkmahapatra/bkmahapatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
